@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @m-sadkowski,
-- 🌱 I’m currently studying computer science on Gdańsk University of Technology (Politechnika Gdańska),
+- 🌱 I’m currently studying IT at Gdańsk University of Technology (Politechnika Gdańska),
 - 📫 How to reach me : via e-mail msadkowski000@gmail.com
