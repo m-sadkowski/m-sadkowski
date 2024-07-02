@@ -7,7 +7,7 @@
 <h3 align="center">A software developer from Poland</h3>
 
 <hr/>
-<br/>
+<br>
 
 <div align="center">
  
@@ -27,7 +27,7 @@
 </div>
 
 <hr/>
-<br/>
+<br>
  
 <div align="center">
 	<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -37,7 +37,7 @@
 </div>
 
 <hr/>
-<br/>
+<br>
 
 <div align="center">
 	<h2>🔭 Stats 🔭</h2>
