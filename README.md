@@ -7,7 +7,6 @@
 <h3 align="center">A software developer from Poland</h3>
 
 <hr/>
-<br>
 
 <div align="center">
  
@@ -15,19 +14,17 @@
  
  🌱 I’m currently learning Django and PyTorch.
 
-</div>
- 
-<div align="center"> 
-  <a href="mailto:msadkowski000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/micha%C5%82-sadkowski-4b7b1b277/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+	<br>
+	<a href="mailto:msadkowski000@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+	</a>
+	<a href="https://www.linkedin.com/in/micha%C5%82-sadkowski-4b7b1b277/" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+	</a>
+	<br>
 </div>
 
 <hr/>
-<br>
  
 <div align="center">
 	<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -37,7 +34,6 @@
 </div>
 
 <hr/>
-<br>
 
 <div align="center">
 	<h2>🔭 Stats 🔭</h2>
@@ -47,7 +43,6 @@
 </div>
 
 <hr/>
-<br>
 
 <div align="center">
 	<h2>🐍 My Contributions 🐍</h2>
@@ -56,7 +51,5 @@
 	<br>
 </div>
 
-<hr/>
-<br>
 
 
