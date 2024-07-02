@@ -52,6 +52,7 @@
 	<br>
 	<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/m-sadkowski/m-sadkowski/output/github-contribution-grid-snake.svg" />
 	<br>
+	<p> Working on this acconut since October 2023. </p>
 </div>
 
 
