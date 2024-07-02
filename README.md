@@ -6,6 +6,7 @@
 
 <h3 align="center">A software developer from Poland</h3>
 
+<hr/>
 <br/>
 
 <div align="center">
@@ -14,7 +15,7 @@
  
  🌱 I’m currently learning Django and PyTorch.
 
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:msadkowski000@gmail.com">
@@ -25,30 +26,37 @@
   </a>
 </div>
 
- <hr/>
+<hr/>
+<br/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,django,html,css,javascript,php,java,bash,github" />
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/m-sadkowski/m-sadkowski/output/github-contribution-grid-snake.svg" />
-  <br>
+	<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
+	<br>
+	<img src="https://skillicons.dev/icons?i=cpp,c,python,django,html,css,javascript,php,java,bash,github" />
+	<br>
 </div>
 
 <hr/>
+<br/>
 
-<h2 align="center">🔭 Stats 🔭</h2>
+<div align="center">
+	<h2>🔭 Stats 🔭</h2>
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sadkowski&layout=compact" />
+	<br>
+</div>
+
+<hr/>
 <br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sadkowski&layout=compact" />
+	<h2>🐍 My Contributions 🐍</h2>
+	<br>
+	<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/m-sadkowski/m-sadkowski/output/github-contribution-grid-snake.svg" />
+	<br>
 </div>
 
-<br/><br/>
+<hr/>
+<br>
+
+
