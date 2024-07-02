@@ -14,6 +14,8 @@
  
  🌱 I’m currently learning Django and PyTorch.
 
+ ⚒️ Looking for job/internship!
+
 </div>
 
 <div align="center">
