@@ -11,8 +11,6 @@
 <div align="center">
  
  🔭 I’m currently studying at Gdańsk University of Technology (Politechnika Gdańska)
- 
- 🌱 I’m currently learning Django and PyTorch.
 
  ⚒️ Looking for job/internship!
 
