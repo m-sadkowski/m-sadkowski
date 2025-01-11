@@ -4,14 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Michał+Sadkowski!;" />
 </h1>
 
-<h3 align="center">A software developer from Poland</h3>
+<h3 align="center">a CS major from Poland</h3>
 
 <hr/>
 
 <div align="center">
  
- 🔭 I’m currently studying at Gdańsk University of Technology (Politechnika Gdańska)
-
+ 🔭 I’m studying at Gdańsk University of Technology (Politechnika Gdańska) - 2nd year
  ⚒️ Looking for job/internship!
 
 </div>
@@ -32,7 +31,7 @@
 <div align="center">
 	<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 	<br>
-	<img src="https://skillicons.dev/icons?i=cpp,c,python,django,html,css,javascript,php,java,bash,github" />
+	<img src="https://skillicons.dev/icons?i=cpp,c,python,django,html,css,javascript,php,java,bash,github,asm" />
 	<br>
 </div>
 
