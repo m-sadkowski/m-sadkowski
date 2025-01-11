@@ -31,7 +31,8 @@
 <div align="center">
 	<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 	<br>
-	<img src="https://skillicons.dev/icons?i=cpp,c,python,django,html,css,javascript,php,java,bash,github,asm" />
+	![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,wasm)
+	<img src="https://skillicons.dev/icons?i=cpp,c,python,django,html,css,javascript,php,java,bash,github" />
 	<br>
 </div>
 
