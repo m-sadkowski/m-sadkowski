@@ -10,8 +10,8 @@
 
 <div align="center">
  
- 🔭 I’m studying at Gdańsk University of Technology (Politechnika Gdańska) - 2nd year
- 🔧 Currently learning about <a href="https://github.com/m-sadkowski/My-AI-Journey">AI and ML. </a>
+ 🔭 I’m studying at Gdańsk University of Technology (Politechnika Gdańska) - 2nd year <br>
+ 🔧 Currently learning about <a href="https://github.com/m-sadkowski/My-AI-Journey">AI and ML. </a> <br>
  ⚒️ Looking for job/internship!
 
 </div>
