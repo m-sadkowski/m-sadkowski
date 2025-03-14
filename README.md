@@ -33,7 +33,7 @@
 	<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 	<br>
 	<a href="https://go-skill-icons.vercel.app/">
-    		<img src="https://go-skill-icons.vercel.app/api/icons?i=assembly,bash,cpp,c,python,django,pygame,java,github,html,css,php,javascript,sqlserver" />
+    		<img src="https://go-skill-icons.vercel.app/api/icons?i=assembly,bash,cpp,c,python,django,pygame,java,github,html,css,php,javascript,sqlserver,git" />
  	</a>
 	<br>
 </div>
