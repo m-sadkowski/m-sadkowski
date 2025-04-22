@@ -32,9 +32,34 @@
 <div align="center">
 	<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 	<br>
-	<a href="https://go-skill-icons.vercel.app/">
-    		<img src="https://go-skill-icons.vercel.app/api/icons?i=assembly,bash,cpp,c,python,django,pygame,java,github,html,css,php,javascript,sqlserver,git,java,matlab,swift" />
- 	</a>
+	<table>
+		<tr>
+			<td><img src="https://go-skill-icons.vercel.app/api/icons?i=assembly" /></td>
+			<td><img src="https://go-skill-icons.vercel.app/api/icons?i=bash" /></td>
+			<td><img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" /></td>
+			<td><img src="https://go-skill-icons.vercel.app/api/icons?i=c" /></td>
+			<td><img src="https://go-skill-icons.vercel.app/api/icons?i=python" /></td>
+		</tr>
+		<tr>
+			<td><img src="https://go-skill-icons.vercel.app/api/icons?i=django" /></td>
+			<td><img src="https://go-skill-icons.vercel.app/api/icons?i=pygame" /></td>
+			<td><img src="https://go-skill-icons.vercel.app/api/icons?i=java" /></td>
+			<td><img src="https://go-skill-icons.vercel.app/api/icons?i=github" /></td>
+			<td><img src="https://go-skill-icons.vercel.app/api/icons?i=html" /></td>
+		</tr>
+		<tr>
+			<td><img src="https://go-skill-icons.vercel.app/api/icons?i=css" /></td>
+			<td><img src="https://go-skill-icons.vercel.app/api/icons?i=php" /></td>
+			<td><img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" /></td>
+			<td><img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" /></td>
+			<td><img src="https://go-skill-icons.vercel.app/api/icons?i=git" /></td>
+		</tr>
+		<tr>
+			<td><img src="https://go-skill-icons.vercel.app/api/icons?i=java" /></td>
+			<td><img src="https://go-skill-icons.vercel.app/api/icons?i=matlab" /></td>
+			<td><img src="https://go-skill-icons.vercel.app/api/icons?i=swift" /></td>
+		</tr>
+	</table>
 	<br>
 </div>
 
