@@ -1,7 +1,5 @@
 <h3 align="center">Computer Science - full time engineering student</h3>
 
-<hr/>
-
 <div align="center">
  
  🔭 I’m studying at Gdańsk University of Technology (Politechnika Gdańska) - 2nd year <br>
@@ -22,8 +20,6 @@
 </div>
 
  <!--
-<hr/>
-
 
 <div align="center">
 	<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -60,16 +56,12 @@
 </div>
 -->
 
-<hr/>
-
 <div align="center">
 	<h2>🔭 Stats 🔭</h2>
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sadkowski&layout=compact" />
 	<br>
 </div>
-
-<hr/>
 
 
 
