@@ -57,10 +57,7 @@
 -->
 
 <div align="center">
-	<h2>🔭 Stats 🔭</h2>
-	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sadkowski&layout=compact" />
-	<br>
 </div>
 
 
