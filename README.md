@@ -57,7 +57,9 @@
 -->
 
 <div align="center">
+	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sadkowski&layout=compact" />
+	<br>
 </div>
 
 
