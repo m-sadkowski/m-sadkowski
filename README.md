@@ -3,7 +3,7 @@
 <div align="center">
 	
 🎓 Gdańsk University of Technology - 3rd year <br>
-💼 Carl Zeiss IQS Software R&D Center - Junior Software Engineer <br>
+💼 Zeiss IQS - Software Engineer <br>
 	
 </div>
 
