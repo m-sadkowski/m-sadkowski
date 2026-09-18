@@ -3,7 +3,6 @@
 <div align="center">
 	
 🎓 Gdańsk University of Technology - 3rd year <br>
-💼 Zeiss IQS Software R&D Center - Software Engineer <br>
 	
 </div>
 
