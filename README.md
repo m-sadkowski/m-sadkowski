@@ -2,7 +2,7 @@
 
 <div align="center">
 	
-🎓 Gdańsk University of Technology - 3rd year <br>
+🎓 Gdańsk University of Technology - 7th semester <br>
 	
 </div>
 
